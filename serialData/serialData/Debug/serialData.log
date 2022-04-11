@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\02DPVKaspers\Desktop\serialData\serialData\main.cpp(12,25): error C2664: 'SerialPort::SerialPort(char *)': cannot convert argument 1 from 'std::string' to 'char *'
+C:\Users\02DPVKaspers\Desktop\serialData\serialData\main.cpp(12,21): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\02DPVKaspers\Desktop\serialData\serialData\SerialPort.h(19,5): message : see declaration of 'SerialPort::SerialPort'
